@@ -10,7 +10,7 @@ automatically thanks to application.
 
 *  The application implements background-task class which is probably using and based on JAVA threading library of JavaFX to make parallel ops.
 
-**This mail application is running succesfully at the companies in Germany and in Malta.**
+**This mail application is running succesfully at MLC Europe GmbH / Germany and BD Electronics / Malta**
 
 
 > Because oracle removed JavaFX from JDK11, JavaFX arrives as a stand-alone module. 
