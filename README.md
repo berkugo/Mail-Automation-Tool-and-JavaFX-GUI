@@ -1,4 +1,4 @@
-#quick explanation
+# quick explanation
 
 During my internship in Germany, I have managed a team as Project Manager, we have created
 an application for IT department, it basically has been designed to fetch client's and customers'
