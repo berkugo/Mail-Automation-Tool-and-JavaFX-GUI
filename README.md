@@ -1,7 +1,7 @@
 # quick explanation
 
 It basically has been designed to fetch client's and customers'
-data from a database named Bitrix, I have used its RESTFUL API to fetch and the script is using this
+data from an API named Bitrix, I have used its RESTFUL API to fetch and the script is using this
 data to get e-mail addresses of these clients.
 The main goal of the application was to send marketing e-mails to these clients from the application
 and to ease sales department's work during working hours, the e-mails are being sent
