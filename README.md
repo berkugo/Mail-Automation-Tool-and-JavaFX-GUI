@@ -8,6 +8,8 @@ and to ease sales department's work during working hours, the e-mails are being 
 automatically thanks to application.
 
 *  The application implements background-task class which is probably using and based on JAVA threading library of JavaFX to make parallel ops.
+*  Using TOR proxies to avoid blocking while requesting fast.
+
 
 **Full version of this mail application is running succesfully at MLC Europe GmbH / Germany and BD Electronics / Malta**
 
